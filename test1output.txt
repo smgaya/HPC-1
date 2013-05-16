@@ -1,6 +1,0 @@
-Code run by Peixiang Xu
-Environment variable UWHPSC is /home/uwhpsc/Projects/uwhpsc
-Environment variable MYHPSC is /home/uwhpsc/Projects/HPC
-Imported numpy ok
-Imported matplotlib ok
-Imported pylab ok
