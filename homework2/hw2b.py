@@ -198,9 +198,9 @@ def plot_poly(xi,yi):
 if __name__=="__main__":
     # "main program"
     # the code below is executed only if the module is executed at the command line,
-    #    $ python demo2.py
+    #    $ python hw2b.py
     # or run from within Python, e.g. in IPython with
-    #    In[ ]:  run demo2
+    #    In[ ]:  run hw2b
     # not if the module is imported.
     print "Running test..."
     test_quad1()
