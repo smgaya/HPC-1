@@ -1,0 +1,5 @@
+# figure stuffs
+*.png
+
+# python stuffs
+*.pyc
