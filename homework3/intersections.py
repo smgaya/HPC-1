@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2013, Peixiang Xu(peixiangxu@gmail.com)
+ 
+This program is free software: you can redistribute it 
+and/or modify it under the terms of the GNU General Public 
+License as published by the Free Software Foundation.
+"""
+
 # Newton Method to calculate intersections
 
 from newton import solve
@@ -14,6 +22,9 @@ def fvals(x):
     return f, fp
 
 def main(debug = False):
+    """
+    Main function to show Newton Method to calculate intersections.
+    """
     x = np.linspace(-5,5,100)
     y1 = [x1 * math.cos(x1 * math.pi) for x1 in x]
     y2 = 1 - 0.6*x**2
